@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1469186772 source:/home/wesley/Dropbox/Doutorado 2016.1/Estatistica Computacional/Wesley/Projeto/CProject/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1468850096 source:/home/wesley/Dropbox/Doutorado 2016.1/Estatistica Computacional/Wesley/Projeto/CProject/perceptron.c
+	<stdio.h>
+	<math.h>
+
+1469148355 source:/home/wesley/Dropbox/Doutorado 2016.1/Estatistica Computacional/Wesley/Projeto/CProject/BuildingPerceptron.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1469296159 source:/home/wesley/Dropbox/Doutorado 2016.1/Estatistica Computacional/Wesley/Projeto/CProject/RedesNeurais.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
